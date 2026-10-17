@@ -43,7 +43,7 @@ This assistant only repeats and summarizes the translation in the PDF. It does n
 
 I built the basic idea and structure of this project myself. I also took some help from AI for parts of the code, and then I tested it, fixed the errors, and changed things to make it work for my surah.
 
-Live app: [paste your Streamlit link here]
+Live app: https://quranic-assistant-dmuhyqkwgc65cagbxmappgt.streamlit.app/
 
 Author: Syeda Huda
 Course: Python with Gen Ai
